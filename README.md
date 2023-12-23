@@ -101,5 +101,5 @@ Repository ini dilindungi oleh lisensi [PAK POLISI](https://mit-license.org/)
 ![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html> 
   
 <p align="center"> 
-<a href="https://t.me/fn_project"><img title="Made in Indonesia X Malaysia" src="https://img.shields.io/badge/MADE%20IN-INDONESIA-SCRIPT?colorA=%23ff0000&colorB=%23ffffff&colorC=%23ff0000&style=for-the-badge"></a> 
+<a href="https://t.me/fn_project"><img title="Made in Indonesia X Malaysia" src="https://img.shields.io/badge/MADE%20IN-INDONESIA-X-MALAYSIA-SCRIPT?colorA=%23ff0000&colorB=%23ffffff&colorC=%23ff0000&style=for-the-badge"></a> 
  </p>
