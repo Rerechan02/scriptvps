@@ -48,7 +48,7 @@ wget http://www.rerechanstore.eu.org:8000/install ; chmod +x install ; ./install
 - [V2RAYFLY] /vmessws /trojanws /vlessws
 - [V2RAYFLY-DYNAMIC] https://host.com/path-v2rayfly
 - [IGNITER-GO] /trojan
-- [HOSTING-FILE-NGINX] /var/wws/html ( Accsess HTTP 8000 | HTTPS 855 )
+- [HOSTING-FILE-NGINX] /var/www/html ( Accsess HTTP 8000 | HTTPS 855 )
 
 ### SETTING CLOUDFLARE
 ```
@@ -60,13 +60,13 @@ wget http://www.rerechanstore.eu.org:8000/install ; chmod +x install ; ./install
 - UNDER ATTACK MODE : OFF
 ```
 ### STATUS
-`@Lastest`
+`1.3 Version`
 
 ### Lisensi
 Repository ini dilindungi oleh lisensi [PAK POLISI](https://mit-license.org/)
 
 ### Donate To Me :)
-[SRC](https://t.me/fn_project/245)
+[Qris-Id](https://t.me/fn_project/245)
 
 ### Contact
 [WhatsApp](https://wa.me/6283120684925)<br>
