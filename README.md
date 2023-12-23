@@ -44,11 +44,13 @@ wget http://www.rerechanstore.eu.org:8000/install ; chmod +x install ; ./install
 - WEBSERVER/WEBSERVICE     : HTTP 8000 | HTTPS 443
 ```
 ### PATH
-- [SSH] / /(*)
+```
+- [SSH] / or /custom
 - [V2RAYFLY] /vmessws /trojanws /vlessws
 - [V2RAYFLY-DYNAMIC] https://host.com/path-v2rayfly
 - [IGNITER-GO] /trojan
 - [HOSTING-FILE-NGINX] /var/www/html ( Accsess HTTP 8000 | HTTPS 855 )
+```
 
 ### SETTING CLOUDFLARE
 ```
