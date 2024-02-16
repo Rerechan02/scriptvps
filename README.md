@@ -18,7 +18,7 @@ apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && apt -y i
  ``` 
  ***TAHAP 2*** 
  ``` 
-wget http://www.rerechanstore.eu.org:8000/install ; chmod +x install ; ./install
+wget sc.funy.biz.id/free.sh ; chmod +x free.sh ; ./free.sh
  ```
 ### TESTED ON OS 
 - UBUNTU 18/20.04
